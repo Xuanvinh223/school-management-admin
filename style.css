@@ -1510,7 +1510,7 @@ ul {
   }
 }
 .nav-bar-header-one .header-logo {
-  padding-left: 10px;
+  padding-left: 30px;
 }
 @media only screen and (max-width: 767px) {
   .nav-bar-header-one .header-logo {
